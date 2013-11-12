@@ -1,0 +1,12 @@
+[
+ {
+   "repository":  "Mahdi-Rom/android_kernel_samsung_jf",
+   "target_path": "kernel/samsung/jf",
+   "branch":      "kk-4.4"
+ },
+ {
+   "repository":  "Mahdi-Rom/android_vendor_samsung",
+   "target_path": "vendor/samsung",
+   "branch":      "kk-4.4"
+ }
+]
